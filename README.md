@@ -4,3 +4,6 @@ Live dashboard tracking Great Britain's national electricity grid generation mix
 Main website: https://ukpoliticsdecoded.uk/
 
 UK Live grid dashboard: https://nationalgrid.ukpoliticsdecoded.uk/
+
+Development Repository: https://github.com/epsilonion-liam/UK-Grid-Tracker
+This is the data repository for the national grid dashboard whilst in development.
