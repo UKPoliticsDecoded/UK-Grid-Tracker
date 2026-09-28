@@ -7,3 +7,5 @@ UK Live grid dashboard: https://nationalgrid.ukpoliticsdecoded.uk/
 
 Development Repository: https://github.com/epsilonion-liam/UK-Grid-Tracker
 This is the data repository for the national grid dashboard whilst in development.
+
+To support this project https://ko-fi.com/ukpoliticsdecoded
